@@ -1,0 +1,601 @@
+order_id,order_date,customer_id,city,customer_segment,order_channel,cuisine,quantity,unit_price_inr,discount_pct,discount_amount_inr,delivery_fee_inr,total_amount_inr,payment_method,rating,order_status
+O10001,2025-02-02,C0111,Hubballi,Regular,Website,Italian,5,120,0.05,30.0,40,610.0,Debit Card,1,Delivered
+O10002,2025-10-10,C0141,Mysuru,Regular,App,Indian,3,250,0.05,37.5,40,752.5,UPI,4,Delivered
+O10003,2025-08-27,C0134,Mangaluru,Regular,App,South Indian,5,250,0.15,187.5,20,1082.5,UPI,4,Delivered
+O10004,2025-06-10,C0025,Hubballi,Premium,Phone,South Indian,4,180,0.1,72.0,40,688.0,Cash,4,Delivered
+O10005,2025-06-08,C0149,Hubballi,Regular,App,South Indian,4,150,0.0,0.0,40,640.0,Cash,3,Delivered
+O10006,2025-11-10,C0097,Hubballi,Regular,App,South Indian,5,120,0.0,0.0,40,640.0,UPI,4,Delivered
+O10007,2025-02-01,C0059,Mysuru,Premium,App,Chinese,3,120,0.1,36.0,0,324.0,UPI,4,Delivered
+O10008,2025-09-12,C0093,Udupi,New,App,Fast Food,4,250,0.05,50.0,30,980.0,Debit Card,3,Delivered
+O10009,2025-03-15,C0175,Mangaluru,New,App,Indian,2,120,0.0,0.0,30,270.0,UPI,5,Delivered
+O10010,2025-02-04,C0155,Udupi,Regular,App,Italian,5,450,0.0,0.0,0,2250.0,Debit Card,4,Delivered
+O10011,2025-07-12,C0151,Mangaluru,Premium,Website,Fast Food,4,180,0.1,72.0,20,668.0,Cash,4,Delivered
+O10012,2025-12-23,C0084,Mangaluru,New,Website,South Indian,4,300,0.15,180.0,30,1050.0,Cash,4,Delivered
+O10013,2025-09-26,C0142,Mysuru,New,App,Indian,3,350,0.05,52.5,40,1037.5,UPI,5,Delivered
+O10014,2025-10-05,C0070,Mysuru,New,App,South Indian,5,250,0.0,0.0,20,1270.0,UPI,3,Cancelled
+O10015,2025-09-19,C0124,Hubballi,Premium,App,Italian,1,400,0.0,0.0,40,440.0,Debit Card,2,Delivered
+O10016,2025-10-14,C0116,Mangaluru,New,App,Desserts,1,120,0.05,6.0,30,144.0,UPI,4,Cancelled
+O10017,2025-07-07,C0045,Udupi,Regular,App,Fast Food,3,180,0.0,0.0,40,580.0,Debit Card,4,Delivered
+O10018,2025-02-16,C0048,Mangaluru,Premium,App,Fast Food,4,180,0.05,36.0,30,714.0,Credit Card,3,Delivered
+O10019,2025-11-03,C0012,Mysuru,New,App,South Indian,5,150,0.1,75.0,30,705.0,Debit Card,5,Delivered
+O10020,2025-06-14,C0026,Udupi,Regular,App,South Indian,3,180,0.0,0.0,40,580.0,UPI,3,Delivered
+O10021,2025-07-02,C0079,Mysuru,Regular,App,Indian,4,180,0.0,0.0,50,770.0,Cash,2,Delivered
+O10022,2025-05-16,C0087,Hubballi,Premium,App,Fast Food,3,350,0.0,0.0,30,1080.0,Debit Card,4,Delivered
+O10023,2025-03-08,C0030,Udupi,Regular,App,Indian,5,180,0.15,135.0,30,795.0,UPI,5,Delivered
+O10024,2025-12-05,C0076,Udupi,Regular,Website,Italian,4,400,0.1,160.0,40,1480.0,Credit Card,5,Delivered
+O10025,2025-10-13,C0109,Mysuru,New,App,South Indian,3,350,0.0,0.0,40,1090.0,UPI,5,Delivered
+O10026,2025-08-24,C0042,Mysuru,Regular,Website,Desserts,5,450,0.15,337.5,0,1912.5,Credit Card,4,Delivered
+O10027,2025-05-27,C0061,Bengaluru,Regular,App,Chinese,1,120,0.05,6.0,30,144.0,Credit Card,5,Delivered
+O10028,2025-10-28,C0067,Mysuru,New,Website,Italian,5,450,0.05,112.5,30,2167.5,UPI,5,Delivered
+O10029,2025-07-19,C0091,Udupi,Regular,App,Fast Food,1,300,0.2,60.0,50,290.0,Debit Card,3,Cancelled
+O10030,2025-06-11,C0066,Mysuru,Premium,App,Italian,2,450,0.0,0.0,30,930.0,Debit Card,4,Refunded
+O10031,2025-06-14,C0133,Mangaluru,New,Website,Chinese,5,220,0.0,0.0,30,1130.0,UPI,5,Delivered
+O10032,2025-03-24,C0059,Bengaluru,Regular,App,Chinese,4,450,0.05,90.0,50,1760.0,UPI,4,Delivered
+O10033,2025-02-03,C0079,Mangaluru,Regular,App,Italian,5,300,0.0,0.0,30,1530.0,UPI,4,Delivered
+O10034,2025-07-22,C0069,Mangaluru,Regular,App,Fast Food,4,120,0.1,48.0,20,452.0,Debit Card,4,Delivered
+O10035,2025-11-21,C0033,Udupi,Regular,App,Desserts,4,220,0.0,0.0,20,900.0,Credit Card,4,Delivered
+O10036,2025-01-24,C0124,Mysuru,Regular,App,Fast Food,2,150,0.0,0.0,0,300.0,UPI,2,Delivered
+O10037,2025-11-10,C0043,Bengaluru,New,App,Italian,1,450,0.0,0.0,0,450.0,UPI,5,Delivered
+O10038,2025-10-30,C0054,Bengaluru,Regular,Website,Fast Food,1,180,0.0,0.0,30,210.0,Cash,5,Delivered
+O10039,2025-04-12,C0143,Udupi,Regular,App,South Indian,2,180,0.0,0.0,40,400.0,Credit Card,3,Delivered
+O10040,2025-08-19,C0171,Udupi,Regular,App,Italian,1,250,0.0,0.0,40,290.0,Debit Card,4,Delivered
+O10041,2025-03-02,C0121,Hubballi,New,App,Italian,3,220,0.15,99.0,0,561.0,Credit Card,2,Delivered
+O10042,2025-10-04,C0165,Bengaluru,Premium,Website,Chinese,4,120,0.0,0.0,30,510.0,UPI,1,Delivered
+O10043,2025-09-13,C0154,Bengaluru,New,App,Desserts,5,400,0.0,0.0,20,2020.0,Credit Card,5,Delivered
+O10044,2025-05-10,C0087,Bengaluru,Regular,App,Desserts,3,400,0.0,0.0,50,1250.0,UPI,4,Cancelled
+O10045,2025-01-25,C0139,Hubballi,Regular,App,Chinese,5,350,0.0,0.0,20,1770.0,Debit Card,4,Delivered
+O10046,2025-12-21,C0060,Hubballi,Regular,App,Italian,5,300,0.0,0.0,40,1540.0,Credit Card,3,Delivered
+O10047,2025-06-12,C0083,Udupi,New,Website,Chinese,5,220,0.1,110.0,30,1020.0,Credit Card,5,Delivered
+O10048,2025-11-22,C0097,Bengaluru,New,App,Desserts,3,250,0.0,0.0,40,790.0,UPI,3,Delivered
+O10049,2025-09-05,C0173,Bengaluru,Regular,Website,Indian,2,250,0.15,75.0,30,455.0,Cash,5,Delivered
+O10050,2025-10-12,C0153,Udupi,New,App,Chinese,5,150,0.2,150.0,40,640.0,UPI,3,Delivered
+O10051,2025-10-05,C0089,Udupi,New,App,Chinese,2,120,0.0,0.0,20,260.0,Debit Card,2,Delivered
+O10052,2025-03-13,C0118,Hubballi,Regular,App,Fast Food,3,180,0.0,0.0,50,590.0,Cash,5,Delivered
+O10053,2025-05-13,C0037,Bengaluru,Premium,App,Chinese,1,250,0.0,0.0,30,280.0,Debit Card,1,Delivered
+O10054,2025-06-20,C0145,Bengaluru,New,App,Fast Food,4,150,0.1,60.0,40,580.0,Debit Card,5,Delivered
+O10055,2025-07-01,C0100,Bengaluru,Premium,App,South Indian,4,120,0.0,0.0,40,520.0,Cash,3,Delivered
+O10056,2025-01-16,C0096,Hubballi,Regular,App,South Indian,1,400,0.15,60.0,50,390.0,UPI,5,Delivered
+O10057,2025-07-19,C0138,Udupi,Premium,App,Indian,2,220,0.1,44.0,20,416.0,Cash,5,Delivered
+O10058,2025-02-26,C0114,Hubballi,Regular,App,Indian,3,300,0.15,135.0,20,785.0,Debit Card,5,Delivered
+O10059,2025-09-29,C0014,Mangaluru,Regular,App,Indian,3,250,0.05,37.5,20,732.5,Credit Card,1,Delivered
+O10060,2025-09-07,C0052,Hubballi,Regular,App,Desserts,5,350,0.2,350.0,20,1420.0,Credit Card,5,Delivered
+O10061,2025-12-03,C0032,Bengaluru,Regular,App,Fast Food,2,350,0.0,0.0,30,730.0,Debit Card,5,Refunded
+O10062,2025-09-29,C0133,Udupi,Premium,App,Fast Food,5,180,0.0,0.0,50,950.0,Cash,3,Cancelled
+O10063,2025-05-14,C0007,Udupi,New,App,South Indian,3,400,0.0,0.0,50,1250.0,Debit Card,3,Delivered
+O10064,2025-12-20,C0037,Hubballi,Regular,App,Fast Food,5,220,0.2,220.0,30,910.0,UPI,5,Delivered
+O10065,2025-05-30,C0108,Udupi,New,App,Chinese,2,400,0.05,40.0,40,800.0,Credit Card,3,Delivered
+O10066,2025-04-29,C0126,Mysuru,Premium,App,Fast Food,1,220,0.15,33.0,50,237.0,Debit Card,5,Delivered
+O10067,2025-11-27,C0091,Mysuru,Regular,App,South Indian,1,120,0.0,0.0,50,170.0,Credit Card,5,Delivered
+O10068,2025-05-16,C0155,Mangaluru,Regular,App,Indian,2,350,0.2,140.0,20,580.0,Cash,1,Delivered
+O10069,2025-01-28,C0166,Udupi,Premium,App,Fast Food,5,120,0.05,30.0,30,600.0,Debit Card,4,Delivered
+O10070,2025-06-21,C0024,Hubballi,Premium,App,Italian,1,350,0.05,17.5,40,372.5,UPI,4,Delivered
+O10071,2025-10-18,C0172,Bengaluru,New,Website,Indian,2,120,0.2,48.0,30,222.0,Debit Card,4,Delivered
+O10072,2025-03-11,C0111,Udupi,Regular,App,Chinese,1,150,0.0,0.0,30,180.0,UPI,5,Delivered
+O10073,2025-06-18,C0115,Bengaluru,Premium,Website,Italian,5,300,0.0,0.0,50,1550.0,Credit Card,3,Delivered
+O10074,2025-02-17,C0018,Mysuru,New,App,Italian,4,450,0.05,90.0,50,1760.0,Credit Card,4,Delivered
+O10075,2025-09-08,C0112,Bengaluru,Regular,App,Chinese,4,220,0.0,0.0,50,930.0,Cash,5,Delivered
+O10076,2025-06-23,C0131,Hubballi,Regular,App,Fast Food,4,150,0.0,0.0,40,640.0,Cash,3,Delivered
+O10077,2025-05-01,C0105,Mysuru,Regular,App,Italian,4,180,0.0,0.0,20,740.0,Credit Card,5,Delivered
+O10078,2025-03-24,C0016,Mysuru,Regular,Website,Italian,4,450,0.0,0.0,30,1830.0,Debit Card,2,Delivered
+O10079,2025-07-26,C0095,Hubballi,Regular,App,South Indian,1,350,0.15,52.5,30,327.5,Debit Card,4,Delivered
+O10080,2025-09-02,C0169,Hubballi,New,Phone,Indian,5,120,0.05,30.0,30,600.0,Debit Card,2,Delivered
+O10081,2025-12-10,C0131,Mangaluru,New,App,Italian,4,220,0.0,0.0,30,910.0,Debit Card,5,Delivered
+O10082,2025-06-09,C0025,Udupi,New,Website,Indian,4,180,0.0,0.0,40,760.0,Cash,5,Delivered
+O10083,2025-02-28,C0173,Mysuru,Regular,Website,Desserts,2,150,0.0,0.0,30,330.0,Cash,5,Delivered
+O10084,2025-10-31,C0173,Bengaluru,Regular,App,Chinese,5,400,0.1,200.0,40,1840.0,Cash,5,Delivered
+O10085,2025-08-18,C0031,Bengaluru,New,App,South Indian,2,300,0.2,120.0,30,510.0,UPI,5,Delivered
+O10086,2025-09-13,C0145,Mangaluru,Regular,App,Chinese,1,150,0.2,30.0,30,150.0,Credit Card,5,Delivered
+O10087,2025-02-05,C0074,Hubballi,Regular,App,Chinese,5,300,0.0,0.0,20,1520.0,Credit Card,4,Delivered
+O10088,2025-04-25,C0107,Mysuru,Regular,Website,Fast Food,2,220,0.0,0.0,20,460.0,Debit Card,5,Delivered
+O10089,2025-10-08,C0081,Mangaluru,Premium,App,South Indian,1,120,0.05,6.0,50,164.0,Debit Card,4,Delivered
+O10090,2025-10-31,C0141,Mysuru,Regular,App,Chinese,4,250,0.05,50.0,30,980.0,Debit Card,5,Delivered
+O10091,2025-06-08,C0180,Udupi,Premium,App,Chinese,2,150,0.05,15.0,20,305.0,Credit Card,3,Delivered
+O10092,2025-10-21,C0144,Mysuru,New,App,Desserts,5,180,0.1,90.0,40,850.0,Credit Card,4,Delivered
+O10093,2025-11-04,C0168,Bengaluru,Regular,Phone,Chinese,3,400,0.05,60.0,30,1170.0,Credit Card,5,Delivered
+O10094,2025-05-22,C0171,Bengaluru,Premium,App,Chinese,1,350,0.0,0.0,0,350.0,Cash,3,Delivered
+O10095,2025-11-24,C0017,Mysuru,Premium,App,South Indian,5,150,0.0,0.0,30,780.0,Credit Card,3,Delivered
+O10096,2025-04-16,C0046,Mysuru,Regular,Website,Indian,3,400,0.0,0.0,20,1220.0,UPI,5,Refunded
+O10097,2025-03-29,C0130,Udupi,Regular,App,Desserts,2,300,0.0,0.0,40,640.0,Cash,4,Delivered
+O10098,2025-09-07,C0107,Mysuru,Regular,App,Desserts,4,400,0.0,0.0,20,1620.0,UPI,3,Delivered
+O10099,2025-08-21,C0010,Hubballi,Regular,App,Desserts,3,350,0.1,105.0,0,945.0,Debit Card,4,Delivered
+O10100,2025-02-21,C0018,Mysuru,Regular,App,Chinese,1,220,0.0,0.0,0,220.0,Cash,4,Delivered
+O10101,2025-10-31,C0094,Mangaluru,Premium,App,Indian,4,250,0.0,0.0,30,1030.0,Credit Card,4,Delivered
+O10102,2025-03-14,C0111,Hubballi,Regular,Website,Italian,3,250,0.05,37.5,0,712.5,Credit Card,5,Delivered
+O10103,2025-10-21,C0031,Hubballi,New,App,Italian,4,350,0.1,140.0,40,1300.0,Credit Card,5,Delivered
+O10104,2025-01-03,C0031,Hubballi,Regular,Website,Desserts,5,180,0.0,0.0,20,920.0,UPI,4,Delivered
+O10105,2025-10-18,C0024,Bengaluru,New,Website,Fast Food,4,180,0.15,108.0,40,652.0,UPI,5,Delivered
+O10106,2025-10-15,C0102,Hubballi,New,Website,Desserts,4,180,0.2,144.0,30,606.0,UPI,4,Delivered
+O10107,2025-10-12,C0002,Mangaluru,Regular,App,South Indian,2,180,0.05,18.0,30,372.0,Credit Card,5,Delivered
+O10108,2025-08-31,C0104,Hubballi,Regular,App,South Indian,2,150,0.1,30.0,0,270.0,Debit Card,3,Cancelled
+O10109,2025-06-22,C0086,Hubballi,New,App,Indian,3,120,0.0,0.0,40,400.0,UPI,2,Delivered
+O10110,2025-09-15,C0084,Hubballi,New,App,Indian,5,450,0.2,450.0,50,1850.0,Cash,5,Delivered
+O10111,2025-04-12,C0123,Udupi,New,App,Indian,3,120,0.0,0.0,0,360.0,Debit Card,5,Delivered
+O10112,2025-10-12,C0095,Mysuru,Premium,App,Fast Food,2,400,0.2,160.0,20,660.0,UPI,4,Delivered
+O10113,2025-07-22,C0131,Bengaluru,Regular,App,Chinese,4,120,0.05,24.0,50,506.0,Cash,5,Cancelled
+O10114,2025-06-17,C0138,Hubballi,New,App,Desserts,5,350,0.0,0.0,30,1780.0,UPI,4,Cancelled
+O10115,2025-07-04,C0166,Hubballi,New,App,Indian,5,180,0.0,0.0,20,920.0,Debit Card,4,Delivered
+O10116,2025-07-27,C0144,Bengaluru,Regular,App,Desserts,2,250,0.1,50.0,20,470.0,Credit Card,3,Delivered
+O10117,2025-01-14,C0094,Bengaluru,Regular,App,South Indian,4,180,0.05,36.0,40,724.0,Debit Card,3,Delivered
+O10118,2025-02-21,C0089,Mangaluru,Regular,Website,Indian,3,250,0.0,0.0,40,790.0,Cash,4,Delivered
+O10119,2025-03-31,C0043,Udupi,Regular,App,Indian,3,250,0.1,75.0,30,705.0,Cash,4,Delivered
+O10120,2025-02-11,C0108,Mysuru,Premium,Website,Italian,2,250,0.15,75.0,50,475.0,Credit Card,4,Delivered
+O10121,2025-06-10,C0026,Udupi,Regular,Website,Italian,1,220,0.05,11.0,30,239.0,Debit Card,3,Delivered
+O10122,2025-09-01,C0168,Udupi,Regular,App,Chinese,2,250,0.05,25.0,30,505.0,Cash,5,Delivered
+O10123,2025-08-27,C0153,Mysuru,New,App,Fast Food,3,400,0.0,0.0,30,1230.0,Debit Card,4,Delivered
+O10124,2025-06-21,C0022,Hubballi,Premium,App,Indian,5,220,0.1,110.0,30,1020.0,Cash,5,Delivered
+O10125,2025-11-09,C0142,Mangaluru,Premium,App,Indian,5,220,0.0,0.0,20,1120.0,Credit Card,2,Delivered
+O10126,2025-07-26,C0022,Bengaluru,Regular,App,South Indian,1,150,0.15,22.5,0,127.5,Credit Card,4,Delivered
+O10127,2025-01-29,C0130,Mangaluru,Regular,App,Desserts,4,220,0.0,0.0,30,910.0,Debit Card,5,Delivered
+O10128,2025-10-07,C0016,Mysuru,New,Website,Chinese,1,150,0.05,7.5,40,182.5,Cash,4,Delivered
+O10129,2025-07-29,C0088,Bengaluru,Premium,Website,Desserts,4,150,0.0,0.0,0,600.0,Cash,3,Delivered
+O10130,2025-08-20,C0119,Mangaluru,Regular,Website,Italian,2,450,0.0,0.0,30,930.0,Debit Card,3,Delivered
+O10131,2025-07-26,C0132,Bengaluru,New,App,Italian,3,120,0.1,36.0,40,364.0,Debit Card,3,Delivered
+O10132,2025-07-22,C0076,Hubballi,Regular,App,Indian,4,250,0.05,50.0,40,990.0,Debit Card,4,Cancelled
+O10133,2025-02-03,C0166,Udupi,Regular,Phone,Italian,3,400,0.05,60.0,40,1180.0,Credit Card,4,Delivered
+O10134,2025-07-24,C0140,Udupi,Premium,App,Italian,5,450,0.2,450.0,40,1840.0,Credit Card,3,Delivered
+O10135,2025-10-18,C0038,Mangaluru,Regular,App,Fast Food,3,150,0.2,90.0,40,400.0,Credit Card,4,Delivered
+O10136,2025-04-21,C0121,Mysuru,Regular,App,Indian,5,150,0.15,112.5,20,657.5,Cash,2,Delivered
+O10137,2025-08-09,C0132,Udupi,Regular,App,Chinese,4,220,0.0,0.0,30,910.0,Debit Card,4,Delivered
+O10138,2025-01-12,C0061,Mysuru,Regular,App,Italian,2,250,0.05,25.0,40,515.0,Cash,5,Delivered
+O10139,2025-05-07,C0133,Mangaluru,Regular,App,Indian,4,450,0.15,270.0,20,1550.0,UPI,3,Delivered
+O10140,2025-06-09,C0162,Mangaluru,New,App,Indian,3,150,0.0,0.0,0,450.0,Cash,3,Delivered
+O10141,2025-12-25,C0148,Hubballi,Regular,App,Fast Food,3,150,0.0,0.0,20,470.0,Debit Card,3,Delivered
+O10142,2025-03-20,C0138,Mysuru,Regular,App,Desserts,1,180,0.15,27.0,30,183.0,Cash,1,Delivered
+O10143,2025-04-11,C0115,Udupi,Regular,App,Fast Food,1,400,0.05,20.0,30,410.0,Credit Card,4,Delivered
+O10144,2025-05-30,C0049,Udupi,New,App,Indian,3,120,0.05,18.0,20,362.0,Credit Card,1,Delivered
+O10145,2025-12-29,C0144,Bengaluru,New,Website,Desserts,1,220,0.2,44.0,40,216.0,UPI,3,Delivered
+O10146,2025-11-08,C0066,Hubballi,Regular,App,Fast Food,5,150,0.1,75.0,50,725.0,Cash,5,Delivered
+O10147,2025-01-13,C0096,Mangaluru,New,App,South Indian,5,150,0.0,0.0,20,770.0,Debit Card,5,Delivered
+O10148,2025-03-27,C0057,Mysuru,New,Website,Chinese,4,450,0.0,0.0,50,1850.0,Cash,3,Delivered
+O10149,2025-10-27,C0057,Mangaluru,Regular,App,Fast Food,4,120,0.0,0.0,0,480.0,UPI,4,Delivered
+O10150,2025-01-22,C0029,Mangaluru,Regular,Website,Indian,3,180,0.0,0.0,50,590.0,UPI,4,Delivered
+O10151,2025-11-09,C0174,Mangaluru,Regular,App,Fast Food,1,450,0.1,45.0,50,455.0,Cash,5,Delivered
+O10152,2025-04-13,C0027,Bengaluru,Regular,App,Chinese,2,300,0.15,90.0,0,510.0,UPI,5,Delivered
+O10153,2025-12-01,C0016,Hubballi,Premium,App,Desserts,3,120,0.0,0.0,40,400.0,Debit Card,3,Delivered
+O10154,2025-04-18,C0169,Bengaluru,Regular,App,Indian,5,250,0.0,0.0,50,1300.0,Credit Card,3,Delivered
+O10155,2025-06-08,C0100,Mangaluru,Regular,Phone,Fast Food,2,450,0.15,135.0,50,815.0,Cash,4,Delivered
+O10156,2025-08-30,C0079,Bengaluru,Premium,Website,Indian,3,220,0.0,0.0,50,710.0,Cash,5,Delivered
+O10157,2025-02-16,C0133,Bengaluru,Regular,Website,South Indian,2,250,0.05,25.0,30,505.0,Cash,5,Delivered
+O10158,2025-07-23,C0069,Mangaluru,Regular,Website,Italian,1,250,0.05,12.5,0,237.5,Credit Card,2,Delivered
+O10159,2025-07-04,C0024,Udupi,Regular,App,Desserts,1,300,0.1,30.0,40,310.0,Debit Card,4,Delivered
+O10160,2025-10-14,C0132,Udupi,Regular,Website,Fast Food,2,150,0.0,0.0,40,340.0,Debit Card,3,Delivered
+O10161,2025-12-30,C0032,Mangaluru,Regular,App,Italian,1,400,0.1,40.0,40,400.0,Cash,5,Delivered
+O10162,2025-08-31,C0100,Mysuru,Regular,Website,Indian,1,450,0.0,0.0,30,480.0,UPI,5,Delivered
+O10163,2025-05-30,C0171,Udupi,Regular,App,Fast Food,2,150,0.1,30.0,30,300.0,Cash,4,Delivered
+O10164,2025-05-29,C0169,Mangaluru,New,App,Italian,2,400,0.0,0.0,20,820.0,Credit Card,2,Delivered
+O10165,2025-06-02,C0065,Udupi,Regular,Website,Indian,3,400,0.05,60.0,40,1180.0,UPI,4,Delivered
+O10166,2025-10-25,C0141,Bengaluru,New,Website,Fast Food,1,350,0.05,17.5,0,332.5,Debit Card,4,Delivered
+O10167,2025-04-28,C0111,Mangaluru,Regular,App,Chinese,2,220,0.0,0.0,40,480.0,Cash,5,Delivered
+O10168,2025-03-02,C0087,Mangaluru,Regular,App,Chinese,3,250,0.0,0.0,40,790.0,UPI,4,Delivered
+O10169,2025-05-03,C0026,Bengaluru,Premium,App,Indian,5,400,0.0,0.0,30,2030.0,UPI,5,Cancelled
+O10170,2025-01-09,C0068,Udupi,New,Phone,Italian,4,150,0.0,0.0,30,630.0,Cash,3,Delivered
+O10171,2025-02-08,C0118,Udupi,Regular,App,Chinese,5,400,0.0,0.0,30,2030.0,Cash,3,Cancelled
+O10172,2025-02-02,C0178,Mangaluru,Regular,App,Indian,2,450,0.2,180.0,50,770.0,UPI,4,Delivered
+O10173,2025-10-09,C0001,Udupi,New,App,Italian,3,350,0.0,0.0,40,1090.0,Cash,1,Delivered
+O10174,2025-09-21,C0130,Hubballi,New,App,Chinese,3,220,0.15,99.0,30,591.0,Cash,3,Delivered
+O10175,2025-09-12,C0153,Udupi,New,App,Indian,5,300,0.2,300.0,20,1220.0,Cash,5,Delivered
+O10176,2025-06-18,C0172,Udupi,New,App,Italian,5,120,0.0,0.0,20,620.0,UPI,3,Delivered
+O10177,2025-09-19,C0077,Mysuru,Regular,Website,Indian,5,450,0.1,225.0,30,2055.0,Debit Card,2,Delivered
+O10178,2025-02-28,C0022,Bengaluru,Regular,Website,Desserts,4,220,0.15,132.0,50,798.0,Cash,3,Delivered
+O10179,2025-11-25,C0049,Udupi,Regular,Website,Italian,3,120,0.1,36.0,40,364.0,Cash,2,Delivered
+O10180,2025-07-02,C0154,Hubballi,New,App,Desserts,3,400,0.0,0.0,20,1220.0,Debit Card,5,Delivered
+O10181,2025-12-09,C0159,Udupi,New,App,Desserts,5,300,0.0,0.0,50,1550.0,UPI,5,Cancelled
+O10182,2025-02-25,C0115,Udupi,New,App,Desserts,2,300,0.0,0.0,30,630.0,UPI,2,Delivered
+O10183,2025-07-01,C0023,Bengaluru,Regular,Website,Fast Food,2,120,0.05,12.0,50,278.0,Credit Card,5,Refunded
+O10184,2025-09-12,C0022,Mysuru,Regular,App,Italian,5,350,0.2,350.0,20,1420.0,UPI,5,Delivered
+O10185,2025-06-30,C0087,Bengaluru,Regular,App,South Indian,2,300,0.2,120.0,40,520.0,UPI,5,Delivered
+O10186,2025-06-12,C0106,Bengaluru,New,App,Indian,2,400,0.0,0.0,50,850.0,UPI,4,Delivered
+O10187,2025-03-02,C0006,Udupi,New,App,Desserts,3,400,0.1,120.0,20,1100.0,Cash,3,Delivered
+O10188,2025-05-20,C0124,Udupi,Premium,App,Chinese,2,150,0.0,0.0,40,340.0,Debit Card,4,Delivered
+O10189,2025-03-29,C0099,Udupi,New,App,Indian,5,150,0.15,112.5,50,687.5,Debit Card,5,Delivered
+O10190,2025-04-21,C0003,Udupi,New,App,Chinese,5,450,0.0,0.0,20,2270.0,Cash,5,Delivered
+O10191,2025-09-07,C0018,Hubballi,New,App,Chinese,2,250,0.2,100.0,0,400.0,Credit Card,4,Delivered
+O10192,2025-08-19,C0082,Mysuru,Premium,App,Indian,3,220,0.15,99.0,40,601.0,Credit Card,3,Delivered
+O10193,2025-08-10,C0131,Udupi,Regular,Website,South Indian,5,180,0.0,0.0,30,930.0,UPI,5,Delivered
+O10194,2025-05-13,C0149,Mysuru,Regular,App,Indian,4,300,0.0,0.0,0,1200.0,Credit Card,5,Delivered
+O10195,2025-12-17,C0078,Hubballi,Premium,App,Desserts,2,350,0.15,105.0,30,625.0,UPI,4,Delivered
+O10196,2025-02-01,C0054,Mangaluru,New,Website,Italian,3,120,0.0,0.0,40,400.0,Debit Card,5,Delivered
+O10197,2025-05-06,C0175,Hubballi,Premium,App,South Indian,4,250,0.05,50.0,20,970.0,Cash,4,Refunded
+O10198,2025-02-13,C0083,Udupi,New,Website,Italian,4,450,0.15,270.0,30,1560.0,Debit Card,4,Delivered
+O10199,2025-05-04,C0057,Hubballi,Regular,App,Indian,1,180,0.05,9.0,40,211.0,Credit Card,4,Delivered
+O10200,2025-12-18,C0080,Mysuru,Regular,Website,Chinese,2,180,0.0,0.0,30,390.0,Debit Card,5,Delivered
+O10201,2025-05-14,C0003,Bengaluru,Regular,App,Fast Food,5,400,0.0,0.0,40,2040.0,Cash,5,Delivered
+O10202,2025-11-28,C0055,Bengaluru,Premium,App,South Indian,2,120,0.0,0.0,30,270.0,Credit Card,4,Delivered
+O10203,2025-06-30,C0093,Hubballi,New,App,Chinese,2,220,0.2,88.0,50,402.0,Credit Card,4,Delivered
+O10204,2025-09-13,C0166,Hubballi,Premium,App,Italian,2,250,0.0,0.0,40,540.0,Debit Card,4,Delivered
+O10205,2025-06-16,C0133,Hubballi,Regular,App,Desserts,1,400,0.0,0.0,20,420.0,UPI,3,Delivered
+O10206,2025-04-08,C0141,Udupi,Regular,App,Desserts,1,150,0.0,0.0,50,200.0,Cash,3,Delivered
+O10207,2025-10-06,C0099,Mysuru,Premium,App,Italian,2,220,0.2,88.0,30,382.0,Credit Card,2,Refunded
+O10208,2025-12-20,C0020,Udupi,New,Website,Chinese,5,150,0.0,0.0,20,770.0,Credit Card,4,Delivered
+O10209,2025-04-07,C0071,Hubballi,Premium,App,Chinese,1,400,0.15,60.0,20,360.0,Debit Card,3,Delivered
+O10210,2025-10-12,C0180,Mangaluru,Regular,App,Fast Food,2,300,0.1,60.0,40,580.0,UPI,4,Delivered
+O10211,2025-04-06,C0008,Udupi,Regular,Phone,Fast Food,1,250,0.15,37.5,0,212.5,UPI,5,Delivered
+O10212,2025-09-19,C0159,Bengaluru,New,App,Chinese,3,220,0.2,132.0,20,548.0,UPI,3,Delivered
+O10213,2025-10-15,C0124,Mysuru,Regular,Phone,Indian,2,150,0.15,45.0,20,275.0,Credit Card,4,Delivered
+O10214,2025-06-14,C0052,Udupi,Regular,Phone,Italian,4,450,0.2,360.0,30,1470.0,Debit Card,5,Delivered
+O10215,2025-09-26,C0141,Hubballi,Regular,Website,South Indian,3,300,0.0,0.0,30,930.0,UPI,4,Delivered
+O10216,2025-04-10,C0151,Udupi,New,Website,Indian,4,180,0.1,72.0,30,678.0,Credit Card,3,Delivered
+O10217,2025-01-29,C0008,Bengaluru,New,App,Italian,4,220,0.05,44.0,20,856.0,Cash,4,Delivered
+O10218,2025-02-05,C0020,Mysuru,Premium,App,Indian,3,350,0.05,52.5,0,997.5,Cash,4,Cancelled
+O10219,2025-06-13,C0120,Hubballi,New,App,Chinese,5,350,0.15,262.5,40,1527.5,UPI,4,Delivered
+O10220,2025-11-26,C0180,Hubballi,Regular,Website,Fast Food,3,250,0.2,150.0,30,630.0,Debit Card,3,Delivered
+O10221,2025-02-16,C0005,Udupi,Premium,App,Chinese,5,180,0.1,90.0,40,850.0,UPI,4,Delivered
+O10222,2025-06-16,C0120,Mysuru,New,Website,Chinese,5,300,0.05,75.0,20,1445.0,Debit Card,4,Delivered
+O10223,2025-09-14,C0025,Hubballi,New,App,Desserts,3,300,0.05,45.0,0,855.0,Cash,3,Delivered
+O10224,2025-03-15,C0118,Mysuru,Regular,App,Chinese,4,300,0.0,0.0,20,1220.0,Cash,4,Delivered
+O10225,2025-09-21,C0113,Udupi,New,App,Chinese,2,120,0.0,0.0,30,270.0,UPI,2,Delivered
+O10226,2025-04-22,C0017,Bengaluru,Regular,App,Desserts,5,250,0.0,0.0,30,1280.0,Credit Card,4,Delivered
+O10227,2025-10-23,C0123,Mangaluru,Regular,App,Fast Food,4,300,0.0,0.0,40,1240.0,Cash,5,Delivered
+O10228,2025-07-31,C0162,Bengaluru,Regular,App,Indian,5,450,0.0,0.0,30,2280.0,Cash,3,Cancelled
+O10229,2025-07-19,C0156,Hubballi,Regular,Website,Italian,2,250,0.1,50.0,30,480.0,Credit Card,4,Delivered
+O10230,2025-03-06,C0006,Mangaluru,Regular,App,Fast Food,4,220,0.0,0.0,30,910.0,UPI,4,Delivered
+O10231,2025-06-19,C0045,Mangaluru,Regular,App,Chinese,3,300,0.2,180.0,0,720.0,Credit Card,4,Delivered
+O10232,2025-11-09,C0044,Udupi,New,App,Fast Food,1,150,0.1,15.0,30,165.0,Debit Card,5,Delivered
+O10233,2025-01-08,C0082,Mangaluru,Regular,App,Fast Food,1,120,0.0,0.0,30,150.0,Credit Card,4,Delivered
+O10234,2025-10-04,C0026,Bengaluru,Premium,App,Chinese,3,350,0.0,0.0,30,1080.0,Cash,3,Delivered
+O10235,2025-06-29,C0154,Bengaluru,Regular,App,South Indian,2,450,0.0,0.0,20,920.0,Cash,5,Delivered
+O10236,2025-09-20,C0140,Mangaluru,Regular,Website,Italian,1,400,0.2,80.0,40,360.0,Cash,5,Delivered
+O10237,2025-08-31,C0146,Udupi,Regular,App,Desserts,3,300,0.0,0.0,50,950.0,UPI,5,Delivered
+O10238,2025-06-07,C0036,Mysuru,New,App,Indian,4,120,0.05,24.0,0,456.0,Cash,2,Delivered
+O10239,2025-04-23,C0003,Udupi,New,App,Chinese,2,450,0.2,180.0,40,760.0,Cash,3,Delivered
+O10240,2025-08-17,C0164,Mangaluru,New,App,South Indian,5,250,0.2,250.0,40,1040.0,Credit Card,4,Delivered
+O10241,2025-02-21,C0053,Mangaluru,Premium,Website,Desserts,4,180,0.0,0.0,20,740.0,Debit Card,3,Delivered
+O10242,2025-08-02,C0119,Bengaluru,New,App,Chinese,3,450,0.0,0.0,40,1390.0,Cash,3,Delivered
+O10243,2025-02-04,C0164,Mangaluru,Premium,Website,Desserts,5,350,0.0,0.0,40,1790.0,Cash,5,Delivered
+O10244,2025-08-26,C0007,Mysuru,New,App,Chinese,3,350,0.0,0.0,50,1100.0,Debit Card,3,Delivered
+O10245,2025-08-18,C0001,Udupi,Regular,App,Italian,1,180,0.0,0.0,50,230.0,UPI,2,Delivered
+O10246,2025-01-31,C0001,Mangaluru,Regular,App,Chinese,1,450,0.05,22.5,0,427.5,Debit Card,1,Delivered
+O10247,2025-10-04,C0029,Hubballi,Regular,App,Italian,5,250,0.15,187.5,30,1092.5,Debit Card,4,Delivered
+O10248,2025-06-01,C0010,Hubballi,Regular,Phone,Desserts,5,250,0.05,62.5,30,1217.5,UPI,4,Delivered
+O10249,2025-10-15,C0148,Mangaluru,Premium,App,South Indian,4,350,0.1,140.0,20,1280.0,Cash,5,Delivered
+O10250,2025-01-16,C0110,Udupi,Premium,Website,South Indian,1,300,0.0,0.0,30,330.0,UPI,2,Delivered
+O10251,2025-03-07,C0177,Mysuru,New,Website,Chinese,2,150,0.15,45.0,50,305.0,Cash,3,Cancelled
+O10252,2025-06-30,C0145,Bengaluru,Regular,App,Desserts,1,180,0.1,18.0,0,162.0,Debit Card,4,Delivered
+O10253,2025-03-10,C0174,Udupi,New,App,Italian,1,220,0.15,33.0,30,217.0,Credit Card,4,Delivered
+O10254,2025-05-01,C0043,Udupi,Premium,App,Fast Food,2,450,0.2,180.0,40,760.0,UPI,4,Delivered
+O10255,2025-08-30,C0052,Bengaluru,Regular,App,South Indian,3,350,0.0,0.0,30,1080.0,UPI,5,Delivered
+O10256,2025-02-22,C0153,Udupi,Regular,Website,Fast Food,1,220,0.0,0.0,30,250.0,Debit Card,4,Cancelled
+O10257,2025-09-05,C0045,Udupi,New,App,Fast Food,5,350,0.0,0.0,50,1800.0,Credit Card,4,Delivered
+O10258,2025-02-07,C0011,Udupi,New,Website,Italian,3,350,0.0,0.0,30,1080.0,Cash,5,Delivered
+O10259,2025-03-05,C0121,Mangaluru,New,App,Fast Food,2,220,0.2,88.0,20,372.0,UPI,2,Delivered
+O10260,2025-08-03,C0145,Hubballi,Premium,App,Desserts,3,220,0.0,0.0,0,660.0,Cash,5,Delivered
+O10261,2025-10-17,C0175,Mysuru,Regular,App,Italian,4,450,0.1,180.0,50,1670.0,Cash,4,Delivered
+O10262,2025-03-04,C0168,Hubballi,Premium,App,Fast Food,2,300,0.05,30.0,20,590.0,UPI,4,Delivered
+O10263,2025-04-20,C0022,Hubballi,New,Website,Chinese,1,150,0.0,0.0,30,180.0,Debit Card,5,Delivered
+O10264,2025-12-04,C0139,Hubballi,Regular,App,Italian,1,350,0.0,0.0,0,350.0,Cash,4,Delivered
+O10265,2025-12-28,C0153,Mysuru,Regular,Phone,South Indian,5,300,0.1,150.0,30,1380.0,Credit Card,4,Delivered
+O10266,2025-08-01,C0126,Hubballi,Regular,Website,Fast Food,1,250,0.1,25.0,50,275.0,UPI,3,Cancelled
+O10267,2025-06-13,C0148,Mysuru,Regular,Website,Chinese,4,350,0.0,0.0,30,1430.0,Cash,4,Delivered
+O10268,2025-05-07,C0151,Bengaluru,Regular,App,Fast Food,2,450,0.0,0.0,50,950.0,Credit Card,4,Delivered
+O10269,2025-08-12,C0081,Bengaluru,Regular,Website,South Indian,4,180,0.1,72.0,20,668.0,UPI,3,Delivered
+O10270,2025-08-04,C0008,Udupi,New,App,Indian,1,220,0.0,0.0,30,250.0,Cash,5,Delivered
+O10271,2025-04-18,C0083,Udupi,Regular,Website,Indian,5,150,0.2,150.0,50,650.0,Debit Card,4,Delivered
+O10272,2025-01-09,C0037,Mysuru,Regular,App,Italian,4,300,0.0,0.0,30,1230.0,UPI,4,Refunded
+O10273,2025-02-25,C0021,Bengaluru,New,App,Fast Food,3,220,0.0,0.0,20,680.0,Credit Card,1,Delivered
+O10274,2025-12-16,C0023,Hubballi,Premium,App,Chinese,2,220,0.05,22.0,50,468.0,UPI,4,Delivered
+O10275,2025-06-02,C0126,Bengaluru,Regular,App,South Indian,5,350,0.05,87.5,30,1692.5,Cash,1,Delivered
+O10276,2025-06-26,C0091,Mangaluru,Premium,App,Desserts,2,220,0.05,22.0,30,448.0,UPI,2,Delivered
+O10277,2025-06-20,C0098,Mangaluru,Regular,Website,Fast Food,3,250,0.0,0.0,50,800.0,Cash,4,Delivered
+O10278,2025-10-13,C0135,Bengaluru,Regular,App,Italian,2,220,0.2,88.0,20,372.0,Debit Card,2,Delivered
+O10279,2025-01-24,C0099,Udupi,Regular,App,Indian,2,180,0.05,18.0,30,372.0,Debit Card,3,Delivered
+O10280,2025-01-31,C0114,Mysuru,Premium,App,South Indian,3,150,0.05,22.5,0,427.5,Cash,4,Delivered
+O10281,2025-04-11,C0016,Mangaluru,Regular,Website,Desserts,1,400,0.0,0.0,30,430.0,Cash,4,Delivered
+O10282,2025-06-27,C0154,Mysuru,Regular,Website,Italian,1,120,0.0,0.0,20,140.0,UPI,5,Delivered
+O10283,2025-09-02,C0081,Bengaluru,New,App,Fast Food,2,180,0.05,18.0,40,382.0,UPI,5,Delivered
+O10284,2025-06-29,C0028,Mysuru,Regular,App,South Indian,1,350,0.0,0.0,20,370.0,UPI,4,Delivered
+O10285,2025-06-11,C0147,Mysuru,New,Website,South Indian,3,150,0.1,45.0,40,445.0,Debit Card,5,Delivered
+O10286,2025-12-09,C0133,Mangaluru,New,Website,Indian,5,300,0.0,0.0,20,1520.0,Debit Card,5,Delivered
+O10287,2025-02-28,C0010,Udupi,New,App,South Indian,1,350,0.2,70.0,30,310.0,UPI,4,Delivered
+O10288,2025-07-28,C0035,Mangaluru,Regular,App,Desserts,1,300,0.05,15.0,30,315.0,UPI,5,Delivered
+O10289,2025-07-17,C0003,Bengaluru,New,Website,South Indian,1,180,0.15,27.0,40,193.0,Debit Card,3,Delivered
+O10290,2025-06-22,C0049,Mysuru,Regular,App,Italian,3,120,0.05,18.0,30,372.0,Debit Card,5,Cancelled
+O10291,2025-10-22,C0018,Udupi,Regular,Website,Fast Food,2,400,0.0,0.0,30,830.0,Credit Card,4,Delivered
+O10292,2025-04-08,C0128,Mangaluru,Premium,App,Chinese,3,180,0.15,81.0,50,509.0,Cash,1,Delivered
+O10293,2025-12-15,C0095,Bengaluru,Regular,Website,Fast Food,1,400,0.1,40.0,30,390.0,Cash,3,Refunded
+O10294,2025-05-02,C0177,Udupi,Regular,App,Chinese,2,150,0.1,30.0,20,290.0,Cash,5,Delivered
+O10295,2025-07-18,C0135,Mysuru,Regular,App,Italian,3,150,0.0,0.0,50,500.0,Credit Card,4,Delivered
+O10296,2025-07-10,C0111,Bengaluru,Regular,Phone,Chinese,3,400,0.1,120.0,30,1110.0,Cash,3,Delivered
+O10297,2025-11-07,C0092,Hubballi,Regular,Website,Italian,3,450,0.15,202.5,0,1147.5,Debit Card,3,Delivered
+O10298,2025-06-10,C0010,Mangaluru,New,Website,Italian,4,400,0.1,160.0,30,1470.0,Debit Card,4,Delivered
+O10299,2025-04-14,C0013,Udupi,Premium,Phone,Indian,3,350,0.0,0.0,20,1070.0,Credit Card,5,Delivered
+O10300,2025-01-08,C0111,Mangaluru,New,App,South Indian,5,180,0.1,90.0,20,830.0,Cash,5,Delivered
+O10301,2025-05-13,C0001,Mysuru,Premium,App,Italian,3,450,0.1,135.0,40,1255.0,Debit Card,4,Delivered
+O10302,2025-10-29,C0008,Mysuru,Regular,App,Desserts,2,350,0.2,140.0,20,580.0,UPI,3,Delivered
+O10303,2025-01-04,C0040,Mangaluru,New,App,Chinese,2,150,0.0,0.0,40,340.0,Cash,2,Delivered
+O10304,2025-11-24,C0160,Mysuru,Regular,App,South Indian,2,150,0.0,0.0,50,350.0,UPI,4,Delivered
+O10305,2025-07-18,C0083,Bengaluru,New,Website,Chinese,3,400,0.15,180.0,40,1060.0,Debit Card,5,Delivered
+O10306,2025-02-21,C0128,Hubballi,Regular,App,Fast Food,2,180,0.05,18.0,40,382.0,Debit Card,5,Delivered
+O10307,2025-04-21,C0075,Hubballi,Regular,App,Italian,5,350,0.1,175.0,40,1615.0,Debit Card,4,Delivered
+O10308,2025-07-22,C0032,Udupi,New,App,Italian,3,150,0.05,22.5,50,477.5,UPI,4,Delivered
+O10309,2025-04-26,C0067,Mangaluru,New,App,Fast Food,5,180,0.0,0.0,30,930.0,Credit Card,4,Delivered
+O10310,2025-02-09,C0017,Mangaluru,Regular,App,South Indian,4,180,0.1,72.0,20,668.0,Cash,4,Delivered
+O10311,2025-09-01,C0139,Mysuru,Regular,App,Chinese,2,180,0.0,0.0,30,390.0,UPI,4,Delivered
+O10312,2025-09-03,C0034,Hubballi,Premium,App,Desserts,2,350,0.0,0.0,30,730.0,Debit Card,5,Delivered
+O10313,2025-02-13,C0068,Udupi,Regular,App,Chinese,4,450,0.1,180.0,20,1640.0,Cash,4,Delivered
+O10314,2025-04-13,C0177,Bengaluru,Regular,Website,Chinese,2,450,0.1,90.0,40,850.0,Cash,5,Delivered
+O10315,2025-03-31,C0107,Mangaluru,Regular,App,Chinese,2,350,0.15,105.0,0,595.0,Debit Card,4,Delivered
+O10316,2025-08-29,C0083,Mangaluru,Regular,App,Desserts,5,150,0.0,0.0,50,800.0,Credit Card,1,Delivered
+O10317,2025-09-24,C0098,Mangaluru,Premium,App,Indian,3,450,0.0,0.0,20,1370.0,Debit Card,3,Delivered
+O10318,2025-09-23,C0142,Mysuru,New,App,Italian,1,250,0.2,50.0,0,200.0,Credit Card,4,Cancelled
+O10319,2025-12-09,C0046,Udupi,Regular,App,Italian,3,250,0.0,0.0,20,770.0,Debit Card,4,Delivered
+O10320,2025-10-08,C0115,Bengaluru,New,Phone,South Indian,3,350,0.0,0.0,20,1070.0,Debit Card,4,Delivered
+O10321,2025-04-28,C0158,Udupi,Regular,App,Italian,5,350,0.0,0.0,20,1770.0,Debit Card,5,Delivered
+O10322,2025-02-09,C0104,Hubballi,Regular,App,Desserts,4,450,0.05,90.0,0,1710.0,UPI,3,Delivered
+O10323,2025-08-13,C0081,Hubballi,Regular,App,South Indian,1,300,0.15,45.0,20,275.0,Cash,5,Delivered
+O10324,2025-12-01,C0027,Hubballi,Regular,Website,South Indian,1,300,0.1,30.0,20,290.0,Debit Card,5,Delivered
+O10325,2025-12-22,C0045,Bengaluru,Regular,App,South Indian,4,350,0.1,140.0,30,1290.0,Cash,4,Cancelled
+O10326,2025-03-26,C0171,Hubballi,New,App,Indian,1,180,0.0,0.0,30,210.0,Debit Card,4,Delivered
+O10327,2025-03-28,C0098,Mangaluru,Regular,Website,Italian,2,180,0.0,0.0,30,390.0,Cash,3,Cancelled
+O10328,2025-01-14,C0055,Mysuru,Premium,App,Fast Food,1,300,0.05,15.0,30,315.0,Cash,4,Delivered
+O10329,2025-02-21,C0076,Hubballi,Regular,App,Chinese,1,120,0.0,0.0,0,120.0,Cash,5,Cancelled
+O10330,2025-07-22,C0105,Hubballi,Regular,App,Indian,5,180,0.0,0.0,0,900.0,Debit Card,5,Delivered
+O10331,2025-07-19,C0097,Mangaluru,Regular,App,Indian,1,350,0.0,0.0,20,370.0,Debit Card,4,Delivered
+O10332,2025-05-16,C0126,Mangaluru,New,Phone,South Indian,1,450,0.0,0.0,40,490.0,UPI,3,Delivered
+O10333,2025-04-24,C0047,Mysuru,Regular,App,Fast Food,5,250,0.05,62.5,50,1237.5,Credit Card,5,Delivered
+O10334,2025-10-30,C0117,Bengaluru,New,App,Chinese,1,220,0.1,22.0,50,248.0,Credit Card,5,Delivered
+O10335,2025-06-17,C0080,Hubballi,Premium,App,South Indian,5,220,0.0,0.0,30,1130.0,Cash,4,Delivered
+O10336,2025-10-23,C0170,Bengaluru,Regular,App,South Indian,1,350,0.05,17.5,30,362.5,Debit Card,5,Delivered
+O10337,2025-12-18,C0029,Mysuru,Regular,Website,South Indian,1,250,0.1,25.0,30,255.0,Credit Card,2,Delivered
+O10338,2025-04-26,C0027,Hubballi,New,App,Desserts,1,120,0.1,12.0,40,148.0,UPI,1,Delivered
+O10339,2025-03-15,C0084,Bengaluru,New,Website,Desserts,4,250,0.15,150.0,40,890.0,Debit Card,3,Cancelled
+O10340,2025-12-14,C0092,Udupi,Regular,App,Chinese,4,220,0.0,0.0,40,920.0,Credit Card,3,Delivered
+O10341,2025-08-20,C0125,Mangaluru,Regular,App,South Indian,3,350,0.15,157.5,50,942.5,UPI,5,Delivered
+O10342,2025-04-17,C0073,Bengaluru,Premium,App,Italian,2,400,0.0,0.0,30,830.0,Credit Card,4,Delivered
+O10343,2025-08-15,C0165,Hubballi,Regular,Website,Italian,1,450,0.0,0.0,40,490.0,Cash,3,Delivered
+O10344,2025-07-07,C0086,Mysuru,Regular,App,Fast Food,3,300,0.0,0.0,40,940.0,UPI,4,Delivered
+O10345,2025-11-27,C0024,Hubballi,Regular,App,Fast Food,2,220,0.05,22.0,30,448.0,Credit Card,4,Cancelled
+O10346,2025-04-04,C0022,Hubballi,Premium,Website,Italian,3,220,0.0,0.0,50,710.0,Debit Card,4,Delivered
+O10347,2025-12-28,C0176,Mysuru,Regular,App,Desserts,4,150,0.0,0.0,0,600.0,UPI,3,Delivered
+O10348,2025-12-08,C0025,Udupi,Regular,App,Chinese,5,450,0.1,225.0,50,2075.0,UPI,4,Delivered
+O10349,2025-03-07,C0171,Mangaluru,Premium,App,Indian,3,400,0.0,0.0,40,1240.0,Cash,3,Delivered
+O10350,2025-03-02,C0051,Mysuru,New,Website,Indian,1,400,0.0,0.0,0,400.0,Debit Card,5,Delivered
+O10351,2025-07-14,C0017,Bengaluru,Premium,App,South Indian,2,180,0.0,0.0,40,400.0,UPI,3,Delivered
+O10352,2025-01-17,C0055,Hubballi,New,App,Italian,5,180,0.0,0.0,0,900.0,UPI,5,Delivered
+O10353,2025-04-20,C0111,Mangaluru,Regular,App,Italian,3,400,0.0,0.0,40,1240.0,Credit Card,5,Delivered
+O10354,2025-06-08,C0078,Hubballi,Regular,App,Fast Food,4,250,0.0,0.0,40,1040.0,Debit Card,3,Delivered
+O10355,2025-12-20,C0142,Udupi,Regular,App,Italian,3,350,0.0,0.0,40,1090.0,Debit Card,2,Cancelled
+O10356,2025-12-29,C0110,Udupi,Regular,App,Fast Food,1,250,0.1,25.0,50,275.0,UPI,5,Delivered
+O10357,2025-02-25,C0073,Udupi,Regular,App,Indian,5,220,0.2,220.0,0,880.0,Debit Card,4,Delivered
+O10358,2025-11-22,C0115,Bengaluru,New,App,Indian,4,300,0.05,60.0,20,1160.0,Cash,4,Delivered
+O10359,2025-02-03,C0175,Bengaluru,New,Website,Desserts,5,400,0.1,200.0,30,1830.0,UPI,1,Delivered
+O10360,2025-10-01,C0075,Udupi,Regular,App,Italian,5,220,0.15,165.0,0,935.0,UPI,3,Delivered
+O10361,2025-11-05,C0028,Mangaluru,Regular,App,Chinese,2,400,0.2,160.0,30,670.0,Cash,4,Delivered
+O10362,2025-11-22,C0074,Bengaluru,Regular,Website,Italian,2,180,0.1,36.0,20,344.0,Debit Card,5,Delivered
+O10363,2025-03-23,C0152,Mangaluru,New,Website,Italian,2,220,0.15,66.0,30,404.0,Cash,3,Delivered
+O10364,2025-11-23,C0040,Udupi,Premium,App,Chinese,5,450,0.15,337.5,30,1942.5,Credit Card,5,Delivered
+O10365,2025-02-12,C0171,Mangaluru,Regular,App,Chinese,3,450,0.1,135.0,50,1265.0,Credit Card,5,Delivered
+O10366,2025-07-09,C0106,Bengaluru,Regular,App,South Indian,3,450,0.05,67.5,20,1302.5,UPI,2,Delivered
+O10367,2025-06-21,C0109,Hubballi,Regular,App,Indian,5,180,0.0,0.0,50,950.0,UPI,3,Delivered
+O10368,2025-04-26,C0058,Bengaluru,New,App,Chinese,4,400,0.0,0.0,30,1630.0,Credit Card,3,Delivered
+O10369,2025-01-09,C0166,Mangaluru,Regular,App,Italian,5,450,0.05,112.5,30,2167.5,UPI,4,Delivered
+O10370,2025-10-09,C0007,Bengaluru,Regular,App,Fast Food,5,450,0.05,112.5,30,2167.5,Cash,4,Delivered
+O10371,2025-05-03,C0054,Hubballi,New,App,Desserts,1,120,0.0,0.0,30,150.0,Debit Card,4,Delivered
+O10372,2025-08-30,C0076,Mysuru,Premium,App,Desserts,2,350,0.05,35.0,20,685.0,Cash,3,Delivered
+O10373,2025-05-30,C0086,Udupi,Premium,App,Chinese,4,450,0.05,90.0,30,1740.0,Debit Card,5,Cancelled
+O10374,2025-05-17,C0086,Mangaluru,Regular,App,Fast Food,5,350,0.15,262.5,20,1507.5,Credit Card,4,Delivered
+O10375,2025-11-20,C0027,Mangaluru,Premium,Website,Indian,1,180,0.0,0.0,30,210.0,Debit Card,4,Delivered
+O10376,2025-02-04,C0041,Bengaluru,Premium,Website,Fast Food,2,350,0.0,0.0,30,730.0,UPI,4,Delivered
+O10377,2025-09-26,C0018,Mangaluru,Regular,App,Indian,3,120,0.1,36.0,30,354.0,Cash,3,Delivered
+O10378,2025-09-30,C0104,Mysuru,Regular,App,Indian,4,250,0.15,150.0,40,890.0,Debit Card,5,Delivered
+O10379,2025-05-19,C0064,Bengaluru,Regular,App,South Indian,1,300,0.2,60.0,20,260.0,UPI,4,Delivered
+O10380,2025-04-06,C0102,Mysuru,Regular,App,Chinese,4,250,0.15,150.0,50,900.0,Debit Card,4,Refunded
+O10381,2025-01-02,C0107,Udupi,New,App,Italian,2,350,0.15,105.0,40,635.0,Debit Card,3,Delivered
+O10382,2025-12-08,C0127,Hubballi,New,App,Indian,2,180,0.0,0.0,50,410.0,UPI,4,Delivered
+O10383,2025-12-12,C0099,Hubballi,Regular,App,South Indian,3,300,0.0,0.0,40,940.0,UPI,4,Delivered
+O10384,2025-03-29,C0117,Udupi,Regular,App,South Indian,3,300,0.0,0.0,20,920.0,Cash,4,Delivered
+O10385,2025-01-12,C0106,Hubballi,Regular,App,Fast Food,4,300,0.1,120.0,30,1110.0,Credit Card,5,Delivered
+O10386,2025-02-14,C0118,Hubballi,Regular,App,Desserts,2,180,0.2,72.0,20,308.0,Debit Card,5,Cancelled
+O10387,2025-01-25,C0111,Udupi,New,App,Italian,5,180,0.0,0.0,40,940.0,UPI,2,Delivered
+O10388,2025-10-31,C0057,Bengaluru,Regular,Phone,Chinese,1,180,0.05,9.0,30,201.0,Debit Card,5,Delivered
+O10389,2025-11-22,C0045,Udupi,Regular,App,Indian,5,250,0.0,0.0,20,1270.0,UPI,4,Delivered
+O10390,2025-02-25,C0142,Mangaluru,Premium,App,Chinese,1,300,0.0,0.0,50,350.0,Credit Card,5,Delivered
+O10391,2025-09-30,C0062,Hubballi,Premium,App,Chinese,4,220,0.0,0.0,20,900.0,Debit Card,3,Delivered
+O10392,2025-03-07,C0099,Udupi,Premium,App,Chinese,2,220,0.0,0.0,30,470.0,Credit Card,3,Delivered
+O10393,2025-05-15,C0036,Mysuru,Premium,App,Chinese,2,180,0.2,72.0,40,328.0,Debit Card,4,Delivered
+O10394,2025-08-07,C0078,Bengaluru,Premium,App,Fast Food,1,150,0.0,0.0,0,150.0,UPI,3,Delivered
+O10395,2025-09-20,C0096,Mangaluru,Regular,Website,Indian,4,300,0.15,180.0,30,1050.0,Credit Card,5,Delivered
+O10396,2025-11-16,C0113,Mysuru,New,App,Fast Food,1,400,0.1,40.0,40,400.0,Cash,4,Delivered
+O10397,2025-01-17,C0095,Udupi,New,App,Italian,4,180,0.0,0.0,0,720.0,Credit Card,3,Cancelled
+O10398,2025-03-13,C0065,Udupi,Regular,App,South Indian,4,400,0.0,0.0,30,1630.0,UPI,4,Delivered
+O10399,2025-04-13,C0174,Mysuru,Regular,App,Fast Food,5,300,0.15,225.0,20,1295.0,Cash,5,Delivered
+O10400,2025-04-24,C0093,Udupi,New,App,Desserts,4,150,0.0,0.0,40,640.0,Cash,5,Delivered
+O10401,2025-12-31,C0146,Mysuru,Premium,Website,Italian,2,220,0.15,66.0,20,394.0,Debit Card,4,Delivered
+O10402,2025-10-11,C0133,Mysuru,New,App,Chinese,4,120,0.0,0.0,50,530.0,Cash,3,Delivered
+O10403,2025-04-27,C0101,Udupi,Premium,App,Fast Food,5,120,0.1,60.0,50,590.0,Cash,3,Delivered
+O10404,2025-12-21,C0160,Hubballi,Regular,App,Fast Food,2,220,0.15,66.0,20,394.0,Debit Card,5,Delivered
+O10405,2025-07-02,C0024,Mysuru,Regular,App,Italian,1,250,0.0,0.0,30,280.0,Debit Card,5,Delivered
+O10406,2025-07-02,C0166,Mysuru,Regular,App,Fast Food,5,400,0.0,0.0,30,2030.0,UPI,4,Delivered
+O10407,2025-06-08,C0154,Hubballi,Regular,App,Italian,1,150,0.2,30.0,40,160.0,Debit Card,5,Delivered
+O10408,2025-02-22,C0091,Hubballi,Regular,App,Chinese,3,400,0.0,0.0,30,1230.0,Credit Card,3,Delivered
+O10409,2025-12-08,C0133,Mysuru,New,App,Chinese,2,180,0.0,0.0,20,380.0,Cash,5,Delivered
+O10410,2025-01-06,C0094,Bengaluru,Premium,App,Desserts,1,150,0.0,0.0,20,170.0,Credit Card,3,Delivered
+O10411,2025-03-05,C0049,Bengaluru,Regular,Website,South Indian,4,350,0.0,0.0,50,1450.0,Cash,3,Delivered
+O10412,2025-03-25,C0144,Bengaluru,Regular,Website,Indian,1,350,0.1,35.0,30,345.0,Debit Card,4,Delivered
+O10413,2025-04-12,C0045,Mysuru,Regular,Phone,Desserts,4,300,0.1,120.0,50,1130.0,Debit Card,4,Delivered
+O10414,2025-02-18,C0057,Hubballi,Regular,Website,South Indian,4,150,0.0,0.0,30,630.0,Cash,5,Delivered
+O10415,2025-01-07,C0094,Udupi,Regular,Website,Indian,1,150,0.15,22.5,50,177.5,Credit Card,4,Delivered
+O10416,2025-09-05,C0151,Mangaluru,Regular,Website,South Indian,1,220,0.0,0.0,0,220.0,Credit Card,5,Refunded
+O10417,2025-12-20,C0070,Hubballi,New,App,Fast Food,4,250,0.0,0.0,20,1020.0,Credit Card,5,Delivered
+O10418,2025-02-14,C0089,Hubballi,Regular,Website,Desserts,3,450,0.05,67.5,50,1332.5,Cash,5,Delivered
+O10419,2025-04-19,C0008,Bengaluru,Regular,Website,Italian,1,180,0.2,36.0,50,194.0,Cash,5,Delivered
+O10420,2025-07-04,C0021,Mangaluru,Regular,App,Fast Food,5,150,0.0,0.0,30,780.0,UPI,4,Delivered
+O10421,2025-12-05,C0011,Mangaluru,New,App,Chinese,2,450,0.0,0.0,30,930.0,Credit Card,4,Delivered
+O10422,2025-09-11,C0013,Udupi,Regular,App,Chinese,1,150,0.05,7.5,30,172.5,Credit Card,3,Delivered
+O10423,2025-10-07,C0157,Udupi,Regular,Website,Fast Food,5,120,0.15,90.0,30,540.0,Debit Card,3,Delivered
+O10424,2025-08-01,C0152,Udupi,Regular,App,South Indian,1,220,0.0,0.0,20,240.0,UPI,5,Delivered
+O10425,2025-06-02,C0148,Mysuru,New,Website,Desserts,3,220,0.0,0.0,50,710.0,Debit Card,4,Delivered
+O10426,2025-03-14,C0011,Mysuru,New,Website,South Indian,5,300,0.1,150.0,20,1370.0,Debit Card,4,Cancelled
+O10427,2025-11-12,C0014,Mangaluru,Regular,Phone,Fast Food,3,400,0.0,0.0,40,1240.0,UPI,3,Delivered
+O10428,2025-10-21,C0051,Hubballi,New,App,Fast Food,3,450,0.0,0.0,0,1350.0,UPI,4,Delivered
+O10429,2025-01-10,C0102,Bengaluru,Regular,App,Italian,2,180,0.0,0.0,0,360.0,Debit Card,5,Cancelled
+O10430,2025-09-19,C0061,Mangaluru,Premium,Website,South Indian,1,450,0.0,0.0,40,490.0,Credit Card,3,Delivered
+O10431,2025-01-31,C0088,Bengaluru,Regular,Website,Chinese,3,300,0.05,45.0,30,885.0,Cash,5,Delivered
+O10432,2025-09-27,C0032,Mysuru,Premium,Website,Chinese,5,120,0.15,90.0,40,550.0,Cash,4,Delivered
+O10433,2025-10-29,C0132,Mangaluru,New,App,Desserts,1,450,0.1,45.0,0,405.0,Cash,5,Delivered
+O10434,2025-02-17,C0057,Bengaluru,New,App,Fast Food,5,150,0.1,75.0,50,725.0,Debit Card,3,Delivered
+O10435,2025-06-08,C0012,Mangaluru,Regular,App,Italian,3,300,0.2,180.0,40,760.0,Cash,4,Delivered
+O10436,2025-02-15,C0134,Udupi,Regular,Phone,Desserts,3,400,0.0,0.0,50,1250.0,UPI,3,Delivered
+O10437,2025-07-27,C0163,Mysuru,Premium,App,Desserts,1,180,0.0,0.0,20,200.0,Credit Card,4,Delivered
+O10438,2025-12-05,C0003,Udupi,New,App,Chinese,4,180,0.2,144.0,30,606.0,UPI,5,Delivered
+O10439,2025-01-30,C0079,Udupi,Regular,Website,Fast Food,1,250,0.0,0.0,30,280.0,Debit Card,4,Delivered
+O10440,2025-05-26,C0149,Udupi,Regular,App,Italian,2,400,0.1,80.0,30,750.0,Debit Card,3,Delivered
+O10441,2025-12-22,C0128,Mangaluru,Regular,App,South Indian,4,180,0.1,72.0,20,668.0,Credit Card,5,Cancelled
+O10442,2025-04-20,C0155,Udupi,New,App,Desserts,1,300,0.0,0.0,0,300.0,Credit Card,2,Delivered
+O10443,2025-02-18,C0075,Udupi,Premium,Website,Fast Food,3,250,0.05,37.5,30,742.5,Debit Card,4,Delivered
+O10444,2025-06-28,C0068,Udupi,New,App,South Indian,3,150,0.0,0.0,20,470.0,UPI,5,Delivered
+O10445,2025-07-05,C0128,Mangaluru,Premium,App,Fast Food,1,350,0.0,0.0,30,380.0,Debit Card,4,Delivered
+O10446,2025-08-30,C0028,Mangaluru,Regular,App,Desserts,2,400,0.05,40.0,20,780.0,Debit Card,5,Delivered
+O10447,2025-04-25,C0044,Mysuru,Regular,App,Italian,2,300,0.0,0.0,20,620.0,UPI,4,Refunded
+O10448,2025-12-15,C0109,Udupi,Regular,Website,Italian,4,150,0.1,60.0,40,580.0,UPI,5,Delivered
+O10449,2025-07-10,C0121,Udupi,Premium,App,Italian,5,150,0.15,112.5,30,667.5,Credit Card,4,Delivered
+O10450,2025-04-15,C0022,Mysuru,New,App,Desserts,5,220,0.15,165.0,30,965.0,Debit Card,5,Delivered
+O10451,2025-12-17,C0092,Bengaluru,New,App,Fast Food,1,250,0.0,0.0,30,280.0,Credit Card,3,Delivered
+O10452,2025-12-04,C0066,Mysuru,Regular,App,Indian,1,250,0.0,0.0,40,290.0,Credit Card,5,Delivered
+O10453,2025-07-02,C0091,Hubballi,Regular,App,Indian,1,180,0.0,0.0,30,210.0,Debit Card,3,Delivered
+O10454,2025-01-10,C0173,Mysuru,New,Website,Fast Food,3,250,0.0,0.0,30,780.0,UPI,5,Delivered
+O10455,2025-08-06,C0014,Mangaluru,New,App,South Indian,1,180,0.2,36.0,50,194.0,Debit Card,3,Delivered
+O10456,2025-07-22,C0180,Mangaluru,Regular,App,Italian,2,350,0.0,0.0,30,730.0,UPI,3,Delivered
+O10457,2025-02-24,C0081,Bengaluru,New,App,Fast Food,5,400,0.0,0.0,50,2050.0,UPI,5,Delivered
+O10458,2025-08-20,C0139,Mangaluru,New,App,South Indian,5,300,0.15,225.0,40,1315.0,UPI,3,Delivered
+O10459,2025-11-03,C0077,Hubballi,Premium,Website,Fast Food,5,120,0.0,0.0,0,600.0,Credit Card,4,Delivered
+O10460,2025-02-08,C0056,Mangaluru,Regular,App,Desserts,2,450,0.0,0.0,30,930.0,UPI,5,Delivered
+O10461,2025-09-22,C0139,Udupi,Premium,Phone,Fast Food,4,120,0.0,0.0,40,520.0,Cash,3,Cancelled
+O10462,2025-02-21,C0124,Bengaluru,Premium,App,South Indian,4,450,0.1,180.0,50,1670.0,Credit Card,3,Delivered
+O10463,2025-10-01,C0026,Mysuru,New,App,South Indian,1,120,0.1,12.0,30,138.0,Cash,4,Delivered
+O10464,2025-06-02,C0127,Mysuru,Regular,App,Fast Food,3,250,0.0,0.0,0,750.0,Cash,3,Delivered
+O10465,2025-01-03,C0136,Udupi,Regular,App,Indian,3,120,0.15,54.0,30,336.0,Cash,3,Cancelled
+O10466,2025-12-19,C0070,Udupi,Regular,Website,Italian,2,120,0.15,36.0,20,224.0,Cash,1,Delivered
+O10467,2025-03-02,C0167,Mysuru,New,App,Indian,4,350,0.15,210.0,40,1230.0,UPI,4,Delivered
+O10468,2025-08-06,C0116,Hubballi,New,App,Fast Food,4,350,0.0,0.0,30,1430.0,Credit Card,4,Delivered
+O10469,2025-03-08,C0061,Hubballi,New,App,Indian,3,150,0.0,0.0,40,490.0,Debit Card,1,Delivered
+O10470,2025-12-07,C0002,Mysuru,Regular,App,Fast Food,4,450,0.15,270.0,50,1580.0,Debit Card,4,Delivered
+O10471,2025-09-27,C0122,Bengaluru,Premium,Website,Italian,4,180,0.0,0.0,40,760.0,UPI,4,Delivered
+O10472,2025-10-21,C0038,Mysuru,Regular,Phone,Indian,3,180,0.1,54.0,40,526.0,Debit Card,2,Delivered
+O10473,2025-06-07,C0137,Mangaluru,Regular,App,Indian,2,180,0.1,36.0,40,364.0,Cash,4,Delivered
+O10474,2025-06-20,C0095,Mysuru,Premium,Website,Fast Food,4,250,0.0,0.0,40,1040.0,Cash,5,Delivered
+O10475,2025-08-20,C0085,Hubballi,Regular,Website,Indian,4,150,0.1,60.0,50,590.0,Credit Card,4,Delivered
+O10476,2025-10-14,C0030,Mangaluru,New,App,Desserts,5,220,0.2,220.0,0,880.0,UPI,4,Delivered
+O10477,2025-11-06,C0129,Mangaluru,Premium,App,South Indian,1,150,0.1,15.0,30,165.0,Credit Card,4,Refunded
+O10478,2025-01-07,C0030,Udupi,Regular,App,South Indian,3,120,0.0,0.0,20,380.0,Credit Card,3,Delivered
+O10479,2025-08-31,C0076,Mangaluru,New,Website,Chinese,5,220,0.15,165.0,50,985.0,Credit Card,5,Delivered
+O10480,2025-02-09,C0151,Bengaluru,Regular,Phone,South Indian,3,350,0.05,52.5,40,1037.5,Credit Card,5,Delivered
+O10481,2025-04-16,C0166,Hubballi,Premium,App,Fast Food,5,350,0.1,175.0,30,1605.0,Credit Card,5,Delivered
+O10482,2025-10-30,C0179,Hubballi,Regular,Website,Italian,1,220,0.15,33.0,20,207.0,UPI,3,Delivered
+O10483,2025-04-02,C0173,Udupi,Regular,Website,Indian,1,180,0.1,18.0,30,192.0,Credit Card,4,Delivered
+O10484,2025-10-18,C0101,Hubballi,New,App,Fast Food,4,400,0.0,0.0,40,1640.0,Credit Card,3,Delivered
+O10485,2025-06-18,C0037,Udupi,New,App,South Indian,2,350,0.0,0.0,20,720.0,UPI,4,Delivered
+O10486,2025-03-26,C0152,Mysuru,New,Website,Indian,3,400,0.0,0.0,0,1200.0,Cash,4,Cancelled
+O10487,2025-05-02,C0145,Mangaluru,Regular,Phone,Indian,3,450,0.05,67.5,50,1332.5,Debit Card,4,Delivered
+O10488,2025-07-13,C0179,Udupi,Premium,App,Italian,3,400,0.05,60.0,40,1180.0,Cash,3,Delivered
+O10489,2025-10-07,C0118,Mangaluru,New,App,Fast Food,5,450,0.05,112.5,20,2157.5,Debit Card,5,Delivered
+O10490,2025-08-10,C0026,Mangaluru,Regular,App,Italian,1,220,0.0,0.0,20,240.0,UPI,2,Delivered
+O10491,2025-12-07,C0091,Udupi,New,App,Italian,4,220,0.1,88.0,50,842.0,Cash,1,Delivered
+O10492,2025-11-13,C0081,Udupi,New,App,Chinese,5,180,0.15,135.0,40,805.0,Credit Card,5,Delivered
+O10493,2025-10-02,C0152,Mangaluru,Regular,App,Indian,4,180,0.0,0.0,40,760.0,Debit Card,5,Delivered
+O10494,2025-08-09,C0071,Hubballi,Regular,App,Indian,2,350,0.1,70.0,30,660.0,Credit Card,4,Delivered
+O10495,2025-04-16,C0060,Udupi,Regular,App,Indian,1,350,0.1,35.0,20,335.0,Credit Card,4,Delivered
+O10496,2025-05-31,C0015,Hubballi,Regular,App,South Indian,4,400,0.05,80.0,0,1520.0,Credit Card,3,Delivered
+O10497,2025-02-13,C0151,Bengaluru,Regular,App,South Indian,3,150,0.0,0.0,40,490.0,Credit Card,3,Cancelled
+O10498,2025-05-17,C0136,Hubballi,New,Website,Italian,1,250,0.1,25.0,0,225.0,Debit Card,4,Delivered
+O10499,2025-12-05,C0008,Bengaluru,New,App,Indian,2,150,0.2,60.0,0,240.0,Debit Card,4,Delivered
+O10500,2025-06-05,C0079,Udupi,Premium,App,Italian,5,450,0.1,225.0,40,2065.0,UPI,4,Delivered
+O10501,2025-02-11,C0087,Bengaluru,Regular,App,Desserts,2,180,0.15,54.0,50,356.0,UPI,3,Delivered
+O10502,2025-08-26,C0085,Udupi,Premium,App,Chinese,1,150,0.2,30.0,40,160.0,Cash,5,Delivered
+O10503,2025-12-18,C0166,Bengaluru,Premium,App,Italian,4,300,0.0,0.0,30,1230.0,Debit Card,5,Delivered
+O10504,2025-11-13,C0028,Mysuru,Regular,App,Fast Food,1,400,0.1,40.0,30,390.0,Cash,3,Cancelled
+O10505,2025-04-11,C0056,Mangaluru,Premium,App,Chinese,5,450,0.05,112.5,30,2167.5,Debit Card,2,Delivered
+O10506,2025-06-15,C0033,Udupi,Regular,App,Italian,5,120,0.2,120.0,30,510.0,Debit Card,4,Delivered
+O10507,2025-07-13,C0044,Mangaluru,New,App,Italian,5,180,0.0,0.0,30,930.0,Cash,5,Delivered
+O10508,2025-04-01,C0164,Hubballi,New,App,Italian,5,150,0.0,0.0,30,780.0,Debit Card,4,Delivered
+O10509,2025-04-09,C0170,Bengaluru,New,Website,South Indian,2,180,0.15,54.0,30,336.0,Credit Card,5,Delivered
+O10510,2025-03-28,C0009,Mysuru,New,Website,Fast Food,2,250,0.0,0.0,50,550.0,Debit Card,4,Delivered
+O10511,2025-12-30,C0114,Udupi,Regular,App,Indian,2,180,0.1,36.0,50,374.0,UPI,3,Delivered
+O10512,2025-09-30,C0042,Udupi,Regular,App,Indian,3,120,0.0,0.0,0,360.0,Credit Card,4,Delivered
+O10513,2025-11-03,C0035,Mangaluru,Regular,App,Italian,5,250,0.2,250.0,30,1030.0,Debit Card,3,Delivered
+O10514,2025-10-26,C0053,Mangaluru,Regular,App,Desserts,4,120,0.15,72.0,20,428.0,UPI,5,Delivered
+O10515,2025-12-17,C0035,Mysuru,New,App,Indian,4,180,0.0,0.0,30,750.0,Debit Card,3,Delivered
+O10516,2025-02-08,C0089,Mysuru,Regular,App,Indian,5,120,0.1,60.0,20,560.0,Debit Card,3,Delivered
+O10517,2025-11-18,C0180,Mysuru,Regular,App,South Indian,4,120,0.0,0.0,20,500.0,Credit Card,4,Delivered
+O10518,2025-01-25,C0106,Bengaluru,New,App,Italian,2,220,0.1,44.0,40,436.0,UPI,4,Delivered
+O10519,2025-06-23,C0131,Hubballi,Regular,App,Chinese,3,400,0.1,120.0,30,1110.0,Debit Card,4,Delivered
+O10520,2025-08-05,C0089,Mangaluru,Regular,Website,Chinese,3,350,0.15,157.5,50,942.5,Cash,4,Delivered
+O10521,2025-05-11,C0003,Mangaluru,Regular,Website,Fast Food,1,120,0.0,0.0,0,120.0,Debit Card,5,Delivered
+O10522,2025-02-23,C0016,Udupi,Premium,App,Fast Food,4,120,0.0,0.0,0,480.0,Credit Card,5,Delivered
+O10523,2025-03-12,C0049,Hubballi,Regular,App,Fast Food,4,220,0.1,88.0,30,822.0,Debit Card,5,Delivered
+O10524,2025-10-29,C0044,Mangaluru,Regular,App,Chinese,4,300,0.05,60.0,0,1140.0,Credit Card,4,Delivered
+O10525,2025-04-27,C0152,Udupi,New,App,Fast Food,3,350,0.05,52.5,20,1017.5,Credit Card,4,Delivered
+O10526,2025-04-24,C0152,Mangaluru,Premium,App,Desserts,4,400,0.0,0.0,50,1650.0,Credit Card,4,Delivered
+O10527,2025-12-04,C0154,Mysuru,Regular,App,Chinese,5,220,0.0,0.0,20,1120.0,UPI,4,Delivered
+O10528,2025-02-22,C0115,Mangaluru,New,App,Italian,3,150,0.15,67.5,20,402.5,Cash,4,Delivered
+O10529,2025-12-01,C0101,Bengaluru,Regular,Website,Indian,3,120,0.0,0.0,30,390.0,Debit Card,4,Delivered
+O10530,2025-12-03,C0117,Mysuru,Regular,App,Fast Food,1,150,0.0,0.0,30,180.0,UPI,1,Delivered
+O10531,2025-08-07,C0074,Mysuru,Regular,App,Indian,4,120,0.2,96.0,30,414.0,Cash,1,Delivered
+O10532,2025-03-02,C0121,Udupi,New,App,Chinese,5,400,0.0,0.0,30,2030.0,UPI,5,Delivered
+O10533,2025-02-26,C0143,Mangaluru,Regular,App,South Indian,4,180,0.1,72.0,40,688.0,Debit Card,2,Delivered
+O10534,2025-04-14,C0138,Udupi,New,App,Indian,5,400,0.0,0.0,20,2020.0,UPI,4,Delivered
+O10535,2025-07-30,C0111,Hubballi,New,App,Desserts,5,250,0.15,187.5,30,1092.5,Credit Card,4,Delivered
+O10536,2025-02-26,C0011,Bengaluru,New,App,Italian,4,250,0.1,100.0,40,940.0,Debit Card,3,Delivered
+O10537,2025-06-16,C0131,Hubballi,Premium,App,Italian,3,250,0.15,112.5,50,687.5,Cash,5,Delivered
+O10538,2025-02-12,C0066,Mysuru,Regular,App,Fast Food,1,400,0.0,0.0,30,430.0,Cash,3,Delivered
+O10539,2025-07-17,C0134,Mangaluru,Regular,Website,Fast Food,1,120,0.05,6.0,30,144.0,Cash,5,Delivered
+O10540,2025-01-08,C0098,Mysuru,Regular,App,Italian,2,120,0.1,24.0,0,216.0,UPI,5,Delivered
+O10541,2025-09-16,C0159,Mangaluru,Premium,App,Desserts,3,220,0.0,0.0,20,680.0,UPI,3,Delivered
+O10542,2025-01-21,C0061,Hubballi,Regular,App,Desserts,4,220,0.0,0.0,0,880.0,Cash,3,Delivered
+O10543,2025-03-13,C0168,Mysuru,Premium,App,Chinese,3,250,0.0,0.0,40,790.0,Cash,4,Delivered
+O10544,2025-03-05,C0153,Mysuru,Regular,App,South Indian,1,350,0.2,70.0,20,300.0,Credit Card,4,Delivered
+O10545,2025-10-31,C0060,Mangaluru,New,Phone,Chinese,2,300,0.1,60.0,40,580.0,UPI,3,Delivered
+O10546,2025-01-20,C0087,Mangaluru,Regular,App,Desserts,5,180,0.1,90.0,0,810.0,Debit Card,5,Delivered
+O10547,2025-06-06,C0096,Mysuru,Regular,App,Chinese,5,180,0.1,90.0,50,860.0,UPI,3,Delivered
+O10548,2025-08-04,C0139,Mysuru,Premium,App,Chinese,2,350,0.05,35.0,40,705.0,UPI,5,Delivered
+O10549,2025-07-08,C0125,Mangaluru,Premium,App,South Indian,5,150,0.05,37.5,0,712.5,Cash,3,Delivered
+O10550,2025-09-06,C0154,Mysuru,Regular,App,South Indian,4,250,0.0,0.0,0,1000.0,Credit Card,5,Delivered
+O10551,2025-10-21,C0067,Mangaluru,Premium,App,Indian,5,250,0.1,125.0,0,1125.0,UPI,3,Delivered
+O10552,2025-05-24,C0091,Mysuru,Regular,App,Fast Food,5,350,0.0,0.0,50,1800.0,Debit Card,4,Delivered
+O10553,2025-10-30,C0078,Bengaluru,Regular,App,Italian,4,350,0.15,210.0,20,1210.0,Credit Card,4,Delivered
+O10554,2025-04-27,C0164,Mysuru,Regular,App,Fast Food,2,250,0.15,75.0,30,455.0,Debit Card,3,Delivered
+O10555,2025-12-26,C0055,Hubballi,New,App,Fast Food,4,180,0.0,0.0,30,750.0,Cash,5,Delivered
+O10556,2025-07-04,C0106,Udupi,Premium,App,Desserts,2,220,0.05,22.0,40,458.0,UPI,3,Delivered
+O10557,2025-09-26,C0022,Hubballi,New,Website,Desserts,2,220,0.0,0.0,30,470.0,Debit Card,4,Cancelled
+O10558,2025-11-16,C0154,Hubballi,Regular,App,Fast Food,4,150,0.2,120.0,30,510.0,Cash,4,Delivered
+O10559,2025-10-17,C0070,Bengaluru,Regular,App,South Indian,3,300,0.15,135.0,50,815.0,Credit Card,4,Delivered
+O10560,2025-11-07,C0062,Mangaluru,New,App,Desserts,3,150,0.2,90.0,20,380.0,Cash,2,Delivered
+O10561,2025-07-15,C0105,Hubballi,New,App,Chinese,2,300,0.0,0.0,40,640.0,Credit Card,3,Delivered
+O10562,2025-01-16,C0090,Udupi,Regular,App,South Indian,3,350,0.0,0.0,0,1050.0,Credit Card,3,Delivered
+O10563,2025-06-29,C0153,Mysuru,New,App,South Indian,1,450,0.0,0.0,30,480.0,Cash,4,Delivered
+O10564,2025-03-08,C0096,Udupi,Regular,App,Indian,4,150,0.0,0.0,50,650.0,Debit Card,3,Delivered
+O10565,2025-11-21,C0094,Mangaluru,Regular,Website,Desserts,3,350,0.0,0.0,40,1090.0,Cash,5,Delivered
+O10566,2025-03-28,C0019,Bengaluru,New,App,South Indian,5,120,0.0,0.0,40,640.0,Cash,4,Delivered
+O10567,2025-03-25,C0004,Bengaluru,New,App,Italian,3,220,0.2,132.0,20,548.0,Debit Card,4,Delivered
+O10568,2025-04-02,C0072,Mysuru,Regular,App,Italian,3,150,0.0,0.0,30,480.0,UPI,4,Delivered
+O10569,2025-08-23,C0180,Hubballi,Premium,App,Italian,1,150,0.0,0.0,30,180.0,Credit Card,3,Delivered
+O10570,2025-07-28,C0166,Mangaluru,New,App,Desserts,1,150,0.15,22.5,30,157.5,Cash,4,Delivered
+O10571,2025-12-13,C0114,Hubballi,Premium,App,Desserts,2,120,0.05,12.0,30,258.0,Debit Card,3,Delivered
+O10572,2025-06-01,C0114,Hubballi,Regular,App,South Indian,2,400,0.1,80.0,30,750.0,Credit Card,4,Delivered
+O10573,2025-04-14,C0071,Mangaluru,Regular,App,Fast Food,2,120,0.1,24.0,30,246.0,Credit Card,4,Delivered
+O10574,2025-01-18,C0032,Mangaluru,Regular,App,Indian,2,220,0.15,66.0,20,394.0,Cash,4,Delivered
+O10575,2025-01-03,C0002,Hubballi,Regular,Phone,Desserts,4,350,0.1,140.0,30,1290.0,UPI,5,Delivered
+O10576,2025-05-17,C0061,Hubballi,Premium,App,Indian,1,450,0.05,22.5,20,447.5,UPI,3,Delivered
+O10577,2025-12-04,C0057,Bengaluru,Regular,App,Chinese,2,400,0.1,80.0,50,770.0,Cash,4,Delivered
+O10578,2025-07-11,C0035,Mangaluru,Regular,Phone,Indian,1,150,0.0,0.0,40,190.0,Credit Card,3,Delivered
+O10579,2025-11-23,C0047,Mysuru,Regular,App,Desserts,2,450,0.0,0.0,20,920.0,Cash,4,Delivered
+O10580,2025-02-07,C0005,Mysuru,New,App,Italian,4,300,0.05,60.0,40,1180.0,Debit Card,5,Delivered
+O10581,2025-02-04,C0110,Bengaluru,Regular,App,Chinese,1,150,0.0,0.0,40,190.0,Cash,3,Delivered
+O10582,2025-11-01,C0167,Udupi,New,Website,Indian,2,250,0.1,50.0,20,470.0,Debit Card,4,Delivered
+O10583,2025-02-08,C0125,Mangaluru,Regular,App,Italian,1,450,0.0,0.0,20,470.0,Cash,4,Delivered
+O10584,2025-01-19,C0081,Mangaluru,New,App,South Indian,5,220,0.0,0.0,0,1100.0,Cash,2,Delivered
+O10585,2025-05-28,C0076,Bengaluru,New,Phone,Desserts,4,150,0.0,0.0,0,600.0,UPI,5,Delivered
+O10586,2025-12-04,C0056,Udupi,Regular,App,Fast Food,2,400,0.15,120.0,40,720.0,Cash,4,Delivered
+O10587,2025-09-09,C0026,Mangaluru,Regular,Phone,Fast Food,1,450,0.0,0.0,50,500.0,Debit Card,5,Delivered
+O10588,2025-02-06,C0108,Udupi,Regular,Website,Desserts,1,450,0.1,45.0,0,405.0,UPI,4,Delivered
+O10589,2025-11-02,C0102,Mysuru,New,Website,Desserts,3,450,0.15,202.5,40,1187.5,UPI,5,Delivered
+O10590,2025-11-04,C0002,Udupi,Regular,App,Chinese,4,400,0.0,0.0,0,1600.0,Credit Card,3,Delivered
+O10591,2025-10-20,C0075,Bengaluru,Regular,App,Desserts,3,250,0.1,75.0,30,705.0,UPI,4,Delivered
+O10592,2025-11-26,C0051,Bengaluru,Regular,App,Fast Food,5,150,0.0,0.0,40,790.0,Credit Card,5,Delivered
+O10593,2025-03-29,C0031,Udupi,Regular,App,Desserts,2,300,0.0,0.0,30,630.0,Cash,4,Delivered
+O10594,2025-12-24,C0127,Udupi,Regular,App,Indian,2,150,0.1,30.0,0,270.0,Credit Card,4,Delivered
+O10595,2025-04-28,C0095,Mysuru,Regular,Website,Indian,3,250,0.15,112.5,30,667.5,UPI,5,Delivered
+O10596,2025-10-20,C0115,Bengaluru,Premium,App,Desserts,2,300,0.0,0.0,50,650.0,Credit Card,4,Delivered
+O10597,2025-07-31,C0129,Udupi,Regular,App,South Indian,5,450,0.05,112.5,20,2157.5,UPI,5,Delivered
+O10598,2025-10-12,C0177,Mangaluru,Regular,App,Chinese,1,180,0.0,0.0,20,200.0,Cash,4,Delivered
+O10599,2025-08-18,C0145,Udupi,Regular,App,Desserts,3,180,0.05,27.0,20,533.0,UPI,5,Delivered
+O10600,2025-08-23,C0112,Udupi,New,App,Indian,3,350,0.1,105.0,30,975.0,Cash,5,Delivered
