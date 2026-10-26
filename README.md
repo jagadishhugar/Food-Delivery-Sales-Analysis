@@ -20,7 +20,7 @@ pip install pandas numpy matplotlib jupyter
 ## Run
 1. Extract this folder.
 2. Keep the CSV and notebook in the same folder.
-3. Start Jupyter with `jupyter notebook`.
+3. Start Jupyter with "jupyter notebook".
 4. Open `Food_Delivery_Sales_Analysis.ipynb`.
 5. Run all cells in order.
 6. Use the displayed output tables to prepare the final findings and presentation.
